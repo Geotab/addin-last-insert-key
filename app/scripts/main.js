@@ -738,8 +738,7 @@ geotab.addin.lastInsertKey = (api, state) => {
 		},
 
 		exportToXLSX = () => {
-			var Workbook = () => {
-					if (!(this instanceof Workbook)) return new Workbook();
+			var Workbook = function() {
 					this.SheetNames = [];
 					this.Sheets = {};
 				},
