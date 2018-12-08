@@ -26,7 +26,7 @@ Add the configuration below to the to the system setting -> add-ins section of t
     "menuName": {
       "en": "Last Insert Key"
     },
-    "icon": "https://cdn.rawgit.com/Geotab/addin-last-insert-key/master/dist/images/icon.png"
+    "icon": "https://cdn.jsdelivr.net/gh/Geotab/addin-last-insert-key@master/dist/images/icon.png"
   }]
 }
 ```
