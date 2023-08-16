@@ -5,13 +5,6 @@ This Add-In automates the generation of a report for the most recent assignment 
 
 This add-in was developed using [generator-addin](https://github.com/Geotab/generator-addin) to allow local developmented and testing.
 
-* Install [nodejs](https://nodejs.org/en/) latest LTS
-* Install dependencies: `npm install -g gulp-cli bower`
-* Clone the samples repository `git clone https://github.com/Geotab/addin-last-insert-key.git addin-last-insert-key`
-* Naviagte to the working directory `cd addin-last-insert-key`
-* Restore packages using `npm install` and `bower install`
-* Run the sample `gulp serve`
-
 ## Installation
 Add the configuration below to the to the system setting -> add-ins section of the MyGeotab database
 
