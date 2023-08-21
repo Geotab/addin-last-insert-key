@@ -1,9 +1,6 @@
 # addin-last-insert-key
 This Add-In automates the generation of a report for the most recent assignment of an NFC key or driver to a vehicle within the from date. Options are provided to select the from date and sorting. Generation of a downloadable report is accomplished with a single click.
 
-## Getting Started
-
-This add-in was developed using [generator-addin](https://github.com/Geotab/generator-addin) to allow local developmented and testing.
 
 ## Installation
 Add the configuration below to the to the system setting -> add-ins section of the MyGeotab database
